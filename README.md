@@ -1,6 +1,7 @@
 Projet PFE – Atlas Commerce SARL
 
 Analyse de données & Recommandations stratégiques
+
 Catégorie : Data Analysis / Audit / Business Intelligence
 
 🏢 Contexte
@@ -52,6 +53,7 @@ dashboard/ : Tableau de bord interactif (ex: Streamlit ou Power BI export)
 README.md : Présentation du projet
 
 📝 Étapes du projet
+
 1️⃣ Audit & Compréhension des données
 
 Analyse de la structure et des types de données
@@ -59,6 +61,7 @@ Analyse de la structure et des types de données
 Détection des valeurs manquantes, doublons et aberrantes
 
 Identification des problèmes de qualité
+
 Livrable : Résumé d’audit avec les problèmes détectés
 
 2️⃣ Nettoyage des données (Data Cleaning)
@@ -74,6 +77,7 @@ Gestion des remises négatives et des prix aberrants
 Suppression ou traitement des quantités nulles
 
 Traitement des doublons
+
 Livrable : Dataset propre df_clean
 
 3️⃣ Feature Engineering
@@ -95,6 +99,7 @@ nombre_commandes_par_client
 valeur_vie_client (CLV simplifiée)
 
 4️⃣ Analyses demandées
+
 📊 Performance globale
 
 Chiffre d’affaires total
@@ -114,6 +119,7 @@ CA et marge par catégorie
 Taux de retour par catégorie
 
 Évolution mensuelle
+
 Question stratégique : Quelle catégorie prioriser ou optimiser ?
 
 🌍 Analyse géographique
@@ -123,6 +129,7 @@ CA et profit par ville
 Taux d’annulation par ville
 
 Croissance mensuelle
+
 Question stratégique : Où investir davantage ?
 
 📢 Analyse marketing
