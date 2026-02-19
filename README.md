@@ -141,23 +141,7 @@ Coût marketing par canal
 ROI par canal
 
 Taux de rétention par canal
-
-Formule ROI :
-
-ROI=
-Co
-u
-^
-t_marketing
-Revenus−Co
-u
-^
-t_marketing
 	​
-
-	​
-
-
 Question stratégique : Quel canal mérite plus de budget ? Lequel optimiser ou réduire ?
 
 👥 Analyse clients
